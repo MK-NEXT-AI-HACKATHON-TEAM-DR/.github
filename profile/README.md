@@ -11,7 +11,7 @@
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Maeil_Economic_Daily-DB-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BIG_KINDS-DB-orange?style=flat-square"/>
 </div>
 
 <br>
@@ -86,19 +86,15 @@
 | 김선표<br/>**팀장 · 운영** | 김명서<br/>**백엔드 · LLM** | 이찬영<br/>**프론트 · 분석** | 고성주<br/>**백엔드 · 이미지 생성** | 남민지<br/>**기획 · 분석** |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="./image/sunpyo.jpg" width="120"/> | **(이미지 업로드 예정)** | **(이미지 업로드 예정)** | **(이미지 업로드 예정)** | <img src="./image/minji.jpg" width="120"/> |
-| [@github](https://github.com/) | [@github](https://github.com/) | [@github](https://github.com/) | [@github](https://github.com/) | [@github](https://github.com/) |
+| [@Roflaff](https://github.com/Roflaff) | [@github](https://github.com/) | [@github](https://github.com/) | [@github](https://github.com/) | [@SouthMinji](https://github.com/SouthMinji) |
 
 
 <br>
 
-## 📥 설치 및 실행 (Installation)
+### 📱 앱 실행 QR 코드
 
-```bash
-# Repository clone
-git clone [https://github.com/username/HireHee.git](https://github.com/username/HireHee.git)
-
-# Install dependencies
-npm install
-
+<p align="center">
+  <img src="./image/QR.png" width="200" alt="HireHee QR Code"/>
+</p>
 # Run application
 npm start
