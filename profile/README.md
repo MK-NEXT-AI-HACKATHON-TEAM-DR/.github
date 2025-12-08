@@ -52,11 +52,15 @@
 
 ## 📱 서비스 화면 (Preview)
 
-| 메인 화면 | 진단 화면 | 결과 화면 |
-| :---: | :---: | :---: |
-| <img src="./assets/screen1.png" width="200"/> | <img src="./assets/screen2.png" width="200"/> | <img src="./assets/screen3.png" width="200"/> |
-> *위 이미지는 예시입니다. 실제 스크린샷을 assets 폴더에 넣고 경로를 수정해주세요.*
+### 1) 주요 화면 미리보기
 
+| 메인 화면 | 개인정보 입력 화면 | 성격 테스트 화면 |
+| :---: | :---: | :---: |
+| <img src="./image/main.png" width="200"/> | **(이미지 업로드 예정)** | **(이미지 업로드 예정)** |
+
+| 로딩 화면 | 기업 추천 화면 | 당신의 강점 화면 | 강점 설명 화면 |
+| :---: | :---: | :---: | :---: |
+| <img src="./image/loading.png" width="200"/> | <img src="./image/suggest.png" width="200"/> | <img src="./image/type.png" width="200"/> | <img src="./image/strength.png" width="200"/> |
 <br>
 
 ## 🎯 타겟 사용자 (Target Audience)
@@ -77,14 +81,13 @@
 
 <br>
 
-## 👥 팀원 소개 (Team)
+## 👥 동국대학교 DR 팀 소개
 
-**동국대학교 DR**
-
-| 김선표 | 김명서 | 이찬영 | 고성주 | 남민지 |
+| 김선표<br/>**팀장 · 운영** | 김명서<br/>**백엔드 · LLM** | 이찬영<br/>**프론트 · 분석** | 고성주<br/>**백엔드 · 이미지 생성** | 남민지<br/>**기획 · 분석** |
 | :---: | :---: | :---: | :---: | :---: |
-| Role | Role | Role | Role | Role |
+| <img src="./image/sunpyo.jpg" width="120"/> | **(이미지 업로드 예정)** | **(이미지 업로드 예정)** | **(이미지 업로드 예정)** | <img src="./image/minji.jpg" width="120"/> |
 | [@github](https://github.com/) | [@github](https://github.com/) | [@github](https://github.com/) | [@github](https://github.com/) | [@github](https://github.com/) |
+
 
 <br>
 
