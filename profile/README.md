@@ -98,3 +98,10 @@
 </p>
 # Run application
 npm start
+
+## 📰 언론 보도 (Media Coverage)
+
+- 🎥 [유튜브 뉴스 보도](https://www.youtube.com/watch?v=uc0V85sc0k8)
+- 📰 [매일경제 기사](https://www.mk.co.kr/news/economy/11485734)
+
+
