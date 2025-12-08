@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/logo.png" alt="고용희 로고" width="200" height="200" />
+  <img src="./image/logo.png" alt="고용희 로고" width="200" height="200" />
   
   <br><br>
 
