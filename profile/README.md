@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="./image/01.png" alt="프로젝트 소개 페이지" width="200" />
+  <img src="./image/1.png" alt="프로젝트 소개 페이지" width="200" />
   
   <br><br>
 
@@ -86,8 +86,7 @@
 | 김선표<br/>**팀장 · 운영** | 김명서<br/>**백엔드 · LLM** | 이찬영<br/>**프론트 · 분석** | 고성주<br/>**백엔드 · 이미지 생성** | 남민지<br/>**기획 · 분석** |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="./image/sunpyo.jpg" width="120"/> | **(이미지 업로드 예정)** | **(이미지 업로드 예정)** | **(이미지 업로드 예정)** | <img src="./image/minji.jpg" width="120"/> |
-| [@Roflaff](https://github.com/Roflaff) | [@Miiings](https://github.com/Miiings) | [@gitchanNot
-](https://github.com/gitchanNot) | [@Kseongju030307](https://github.com/Kseongju030307) | [@SouthMinji](https://github.com/SouthMinji) |
+| [@Roflaff](https://github.com/Roflaff) | [@Miiings](https://github.com/Miiings) | [@gitchanNot](https://github.com/gitchanNot) | [@Kseongju030307](https://github.com/Kseongju030307) | [@SouthMinji](https://github.com/SouthMinji) |
 
 
 <br>
