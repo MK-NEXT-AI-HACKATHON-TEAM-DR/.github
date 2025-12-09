@@ -96,7 +96,7 @@
 ## 🧠 기술 구조 (Architecture)
 
 <p align="center">
-  <img src="./image/tech.png" width="750"/>
+  <img src="./image/tech.jpg" width="750"/>
 </p>
 
 ---
