@@ -135,3 +135,13 @@
 | [@Roflaff](https://github.com/Roflaff) | [@Miiings](https://github.com/Miiings) | [@gitchanNot](https://github.com/gitchanNot) | [@Kseongju030307](https://github.com/Kseongju030307) | [@SouthMinji](https://github.com/SouthMinji) |
 
 <br>
+
+<br> 
+
+### 📱 앱 실행 QR 코드 
+<p align="center"> 
+  <img src="./image/QR.png" width="200" alt="HireHee QR Code"/> </p> 
+
+## 📰 언론 보도 (Media Coverage) 
+- 🎥 [유튜브 뉴스 보도](https://www.youtube.com/watch?v=uc0V85sc0k8)
+- 📰 [매일경제 기사](https://www.mk.co.kr/news/economy/11485734)
