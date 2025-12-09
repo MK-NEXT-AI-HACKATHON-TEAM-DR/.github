@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="./image/1.png" alt="프로젝트 소개 페이지" width="200" />
+  <img src="./image/1.jpg" alt="프로젝트 소개 페이지" width="200" />
   
   <br><br>
 
