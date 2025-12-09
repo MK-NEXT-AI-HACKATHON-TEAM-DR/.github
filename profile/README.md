@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img src="./image/1.jpg" alt="프로젝트 소개 페이지" width="600" />
+  <img src="./image/1.jpg" alt="프로젝트 소개 페이지" width="700" />
   <br><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
